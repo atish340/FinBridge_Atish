@@ -1,0 +1,3 @@
+[Claude] API failed: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011Cb67aXbde1XnKuADXJcmu"}
+[Claude] API failed: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011Cb6CEn44o4A54G2C3wvk7"}
+[Fallback] using generic mock for Screenshot_2026-05-05-12-08-03-28.jpg

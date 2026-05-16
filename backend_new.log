@@ -1,0 +1,7 @@
+◇ injected env (8) from .env // tip: ⌘ override existing { override: true }
+[DB] Connected: mongodb://localhost:27017/finbridge
+
+🚀 FinBridge SaaS backend on http://localhost:3001
+
+[PDF Text] attempting text extraction for 03_salary_register.pdf
+[PDF Text] extracted successfully for 03_salary_register.pdf
